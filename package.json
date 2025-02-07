@@ -1,0 +1,29 @@
+{
+  "name": "drone_management_system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muzzammil777/Drone_Management_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muzzammil777/Drone_Management_System/issues"
+  },
+  "homepage": "https://github.com/Muzzammil777/Drone_Management_System#readme",
+  "description": "",
+  "dependencies": {
+    "file": "^0.2.2",
+    "json": "^11.0.0",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.28.0"
+  }
+}
